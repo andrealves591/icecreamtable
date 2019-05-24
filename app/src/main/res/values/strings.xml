@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ice Cream Table</string>
+
+    <!--Activity Main-->
+    <string name="ma_bt_products">Products</string>
+    <string name="ma_bt_machine">Ice Cream Machines</string>
+    <string name="ma_bt_maintenance">Maintenance Technicians</string>
+    <string name="ma_bt_parts">Accessories and Spare Parts</string>
+
+    <!--Activity Product Suppliers-->
+    <string name="ps_tv_name_company">Name Company</string>
+    <string name="ps_tv_CNPJ">CNPJ: 11.222.333/4444-55</string>
+    <string name="ps_tv_address">Rua dos Exemplos, 123 - Centro, Gravataí - RS</string>
+    <string name="ps_tv_show_catalog">View Catalog [+]</string>
+
+    <!--Product Adapter-->
+    <string name="pa_tv_measure">Measure: </string>
+    <string name="pa_tv_value">Cost Value: R$ </string>
+
+
+</resources>

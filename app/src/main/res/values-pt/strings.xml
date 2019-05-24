@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ice Cream Table</string>
+
+    <!--Activity Main-->
+    <string name="ma_bt_products">Produtos</string>
+    <string name="ma_bt_machine">Máquinas de Sorvete</string>
+    <string name="ma_bt_maintenance">Técnicos de Manutenção</string>
+    <string name="ma_bt_parts">Peças e Acessórios</string>
+
+    <!--Activity Product Suppliers-->
+    <string name="ps_tv_name_company">Nome do Fabricante</string>
+    <string name="ps_tv_CNPJ">CNPJ: 11.222.333/4444-55</string>
+    <string name="ps_tv_address">Rua dos Exemplos, 123 - Centro, Gravataí - RS</string>
+    <string name="ps_tv_show_catalog">Ver Catálogo [+]</string>
+
+    <!--Product Adapter-->
+    <string name="pa_tv_measure">Peso/Litragem: </string>
+    <string name="pa_tv_value">Preço: R$ </string>
+</resources>
